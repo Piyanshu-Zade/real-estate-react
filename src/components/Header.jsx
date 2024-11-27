@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div
       className="relative min-h-screen mb-4 bg-cover bg-center flex flex-col justify-center items-center w-full overflow-hidden"
-      style={{ backgroundImage: "url('../../public/images/background_home.png')" }}
+      style={{ backgroundImage: "url('/images/background_home.png')" }}
       id="Header"
     >
       {/* Transparent Black Overlay */}
