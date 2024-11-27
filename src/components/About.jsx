@@ -20,7 +20,7 @@ const About = () => {
       <div className="flex flex-col md:flex-row items-center gap-12 md:gap-20">
         {/* Image Section */}
         <img
-          src="/public/images/About_logo6.png"
+          src="/images/About_logo6.png"
           alt="About Us"
           className="w-full sm:w-1/2 max-w-lg rounded-lg "
         />

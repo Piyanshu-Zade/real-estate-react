@@ -4,19 +4,19 @@ const Testimonials = () => {
   const testimonials = [
     {
       name: 'John Doe',
-      image: '/public/images/profile_img_3.png',
+      image: '/images/profile_img_3.png',
       text: "The real estate service provided was outstanding! They helped me find the perfect property that fits my needs and budget.",
       location: 'Nagpur, Maharashtra',
     },
     {
       name: 'Michael Johnson',
-      image: '/public/images/profile_img_1.png',
+      image: '/images/profile_img_1.png',
       text: "An amazing experience! They truly understood my requirements and found me a property that exceeded my expectations. Highly recommended.",
       location: 'Nagpur, Maharashtra',
     },
     {
       name: 'Jane Smith',
-      image: '/public/images/profile_img_2.png',
+      image: '/images/profile_img_2.png',
       text: "I couldn't be happier with the property I bought! The team was professional, responsive, and guided me through every step of the process.",
       location: 'Chandrapur, Maharashtra',
     },

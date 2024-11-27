@@ -51,7 +51,7 @@ const Projects = () => {
         {/* Apartment Image */}
         <div className="apartment-image flex-1 flex justify-center items-center">
           <img
-            src="/public/images/Aparments_image.png"
+            src="/images/Aparments_image.png"
             alt="Apartment"
             className="w-full sm:w-7/7 h-auto max-w-xl rounded-lg shadow-lg" 
           />
